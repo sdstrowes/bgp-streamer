@@ -1,0 +1,11 @@
+{
+    "origin": null, 
+    "includeBody": false, 
+    "host": "rrc21", 
+    "prefix": "0.0.0.0/0", 
+    "lessSpecific": false, 
+    "peer": null, 
+    "moreSpecific": true, 
+    "type": null
+}
+
