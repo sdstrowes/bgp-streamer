@@ -1,8 +1,8 @@
 {
     "origin": null, 
     "includeBody": false, 
-    "host": "rrc21", 
-    "prefix": "::/0", 
+    "host": "",
+    "prefix": "", 
     "lessSpecific": false, 
     "peer": null, 
     "moreSpecific": true, 

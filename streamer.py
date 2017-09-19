@@ -2,7 +2,6 @@
 
 import json
 import signal
-import socketio
 import threading
 import time
 
